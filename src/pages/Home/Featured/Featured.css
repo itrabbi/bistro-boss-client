@@ -1,0 +1,14 @@
+.featured-item {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.638)), url('../../../assets/home/featured.jpg');
+}
+
+.cs-btn{
+    border-bottom: 4px solid white;
+    padding: 15px 30px; 
+    font-weight: bold;
+    border-radius: 8px;
+}
+.cs-btn:hover{
+    border-bottom-color: red;
+    color: red;
+}
